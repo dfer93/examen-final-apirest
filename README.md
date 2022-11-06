@@ -3,6 +3,12 @@
 
 ## Información Relevante de la API
 
+Para iniciar el proyecto: 
+
+composer install
+
+php artisan serve
+
 Para la creación del proyecto se creo con el framework de php Laravel. Se aclara que las tablas fueron creadas con las migraciones de laravel, no obstante, debido a un error con el plurar de los modelos, se realizaron cambios de forma manual, usar el script de base de datos para realizar la restauración considerando que el mismo cuenta con 3 trigger function para el funcionamiento del sistema
 
 
